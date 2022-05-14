@@ -1,5 +1,5 @@
-test
-Добавленный текст после 1-го коммита
-print("Hello");
-print("Hello, my dear friend");
-print("Glad to see you");
+test;
+Добавленный текст после 1-го коммита;
+print("Hello;");
+print("Hello, my dear friend;");
+print("Glad to see you;");
